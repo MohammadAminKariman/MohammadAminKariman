@@ -34,7 +34,7 @@
             </li>
         </ul>
     <h3> 🎨 Art / طراحی </h3>
-        <ol>
+        <ul>
             <li>
                 Pixel Art (krita, Aseprite)
             </li>
