@@ -9,39 +9,35 @@
     <h3> 💻 Programming / برنامه نویسی </h3>
         <ol>
             <li>
-            Web development (HTML, CSS, JS, PHP, Django, WordPress)
+                Web development (HTML, CSS, JS, PHP, Django, WordPress)
             </li>
             <li>
-            Game development (PYGame, Love2d, Godot)
+                Game development (PYGame, Love2d, Godot)
             </li>
             <li>
-            Database development (SQLite, MySQL, SQLServer)
+                Database development (SQLite, MySQL, SQLServer)
             </li>
             <li>
-            App development (Flutter)
+                App development (Flutter)
             </li>
             <li>
-            Programmin languages (Python, JavaScript)
+                Programmin languages (Python, JavaScript)
             </li>
             <li>
-            Scripting languages (Lua, PowerShell, GDScript)
+                Scripting languages (Lua, PowerShell, GDScript)
             </li>
         </ol>
-  <h3> 🎵 Composition / آهنگسازی </h3>
-  <h3> 🎨 Art / طراحی </h3>
+    <h3> 🎵 Composition / آهنگسازی </h3>
+        <ol>
+            <li>
+                FL Studio (Chiptune, Video Game Music)
+            </li>
+        </ol>
+    <h3> 🎨 Art / طراحی </h3>
 
-<!--
-## ⭐ Best projects / برترین پروژه ها
--->
+
 ### 
 - 
-- Python (Django, Pygame)
-- Lua (Love2d)
-- DataBases (MySQL, SQL Server, SQLite)
-- PowerShell
-- GDScript (Godot)
-### 
-- FL Studio (Chiptune, Video Game Music)
 ### 
 - Pixel Art (krita, Aseprite)
 - Photo Art (Photoshop)
