@@ -5,7 +5,9 @@
 ## فارسی:
 ### یک فرد هجده ساله، توسعه دهنده تقریبا خودآموخته با دو سال تجربه در پایتون، بانک های اطلاعاتی و بازی سازی با توانایی حرف زدن به زبان های فارسی، انگلیسی و مقدار کمی آلمانی
 ### ⚠ I'm a newbie / من تازه کار هستم ⚠
+<!--
 ## ⭐ Best projects / برترین پروژه ها
+-->
 ## 🛠 Skills / مهارت ها
 ### 💻 Programming / برنامه نویسی
 - HTML, CSS, JS, PHP
@@ -19,9 +21,10 @@
 - Pixel Art (krita, Aseprite)
 - Photo Art (Photoshop)
 - illustrations (illustrator)
-## 🔭 Im seeking... / ...من به دنبال
-- I'm seeking teaching opportunities / من به دنبال فرصت برای تدریس هستم
 ## 📫 Reach out / تماس با من
+### I'm seeking teaching opportunities / من به دنبال فرصت برای تدریس هستم
+- Email: mohamadaminkariman@gmail.com
+- Location: Tehran, Iran 
 
 <!--
 **MohammadAminKariman/MohammadAminKariman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
