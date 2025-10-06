@@ -1,4 +1,4 @@
-<h1> 👋 Hi, I'm Mohammad amin / درود، من محمد امین هستم </h1>
+<h2 align="center"> Hi, I'm Mohammad amin / درود، من محمد امین هستم </h2>
 
 ## English: 
 ### 18 years old, Mostly self-taught dev, with 2 year of experience in python, databases and game development, able to speak persian, english and a little bit of german
