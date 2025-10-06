@@ -1,5 +1,7 @@
-# 👋 Hi, I'm Mohammad amin! / درود، من محمد امین هستم!
+# 👋 Hi, I'm Mohammad amin / درود، من محمد امین هستم
 
+##English:##
+##فارسی:##
 <!--
 **MohammadAminKariman/MohammadAminKariman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
