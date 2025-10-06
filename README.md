@@ -7,6 +7,7 @@
 ## ⭐ Best projects / برترین پروژه ها
 ## 🛠 Skills / مهارت ها
 ### Programming / برنامه نویسی
+- HTML, CSS
 - Python (Django, Pygame)
 ## 📫 Reach out / تماس با من
 
