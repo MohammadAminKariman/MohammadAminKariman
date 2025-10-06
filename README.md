@@ -6,21 +6,23 @@
 <br/><br/><br/>
 <h2 align="center"> :warning: I'm a newbie / من تازه کار هستم :warning: </h2>
 <h2> 🛠 Skills / مهارت ها </h2>
-<h3></h3>
+  <h3> 💻 Programming / برنامه نویسی </h3>
+  <h3> 🎵 Composition / آهنگسازی </h3>
+  <h3> 🎨 Art / طراحی </h3>
 
 <!--
 ## ⭐ Best projects / برترین پروژه ها
 -->
-### 💻 Programming / برنامه نویسی
+### 
 - HTML, CSS, JS, PHP
 - Python (Django, Pygame)
 - Lua (Love2d)
 - DataBases (MySQL, SQL Server, SQLite)
 - PowerShell
 - GDScript (Godot)
-### 🎵 Composition / آهنگسازی
+### 
 - FL Studio (Chiptune, Video Game Music)
-### 🎨 Art / طراحی
+### 
 - Pixel Art (krita, Aseprite)
 - Photo Art (Photoshop)
 - illustrations (illustrator)
