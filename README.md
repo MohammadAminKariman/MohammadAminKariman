@@ -9,6 +9,10 @@
 ### Programming / برنامه نویسی
 - HTML, CSS
 - Python (Django, Pygame)
+- Lua (Love2d)
+- PowerShell
+### Composition / آهنگسازی
+- FL Studio (Chiptune, Video Game Music)
 ## 📫 Reach out / تماس با من
 
 <!--
