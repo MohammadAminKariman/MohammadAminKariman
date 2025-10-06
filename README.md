@@ -4,7 +4,7 @@
 <h2> فارسی: </h2> 
 <h3> یک فرد هجده ساله، توسعه دهنده تقریبا خودآموخته با دو سال تجربه در پایتون، بانک های اطلاعاتی و بازی سازی با توانایی حرف زدن به زبان های فارسی، انگلیسی و مقدار کمی آلمانی </h3>
 <br/><br/><br/>
-<h2 align="center" style="color: red"> :warning: I'm a newbie / من تازه کار هستم :warning: </h2>
+<h2 align="center" style="color: red;"> :warning: I'm a newbie / من تازه کار هستم :warning: </h2>
 
 <!--
 ## ⭐ Best projects / برترین پروژه ها
