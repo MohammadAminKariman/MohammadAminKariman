@@ -6,8 +6,9 @@
 ### یک فرد هجده ساله، توسعه دهنده تقریبا خودآموخته با دو سال تجربه در پایتون، بانک های اطلاعاتی و بازی سازی با توانایی حرف زدن به زبان های فارسی، انگلیسی و مقدار کمی آلمانی
 ## ⭐ Best projects / برترین پروژه ها
 ## 🛠 Skills / مهارت ها
+# Programming / برنامه نویسی
+- Python (Django, Pygame)
 ## 📫 Reach out / تماس با من
-##text## sas
 
 <!--
 **MohammadAminKariman/MohammadAminKariman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
