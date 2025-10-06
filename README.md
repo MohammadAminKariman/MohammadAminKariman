@@ -48,5 +48,4 @@
 <h2>📫 Reach out / تماس با من</h2> 
 <h3>I'm seeking teaching opportunities / من به دنبال فرصت برای تدریس هستم</h3>
 <p>- Email: mohamadaminkariman@gmail.com</p>
-<br/>
 <p>- Location: Tehran, Iran</p>
