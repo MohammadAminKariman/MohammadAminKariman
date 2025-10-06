@@ -6,13 +6,18 @@
 ### یک فرد هجده ساله، توسعه دهنده تقریبا خودآموخته با دو سال تجربه در پایتون، بانک های اطلاعاتی و بازی سازی با توانایی حرف زدن به زبان های فارسی، انگلیسی و مقدار کمی آلمانی
 ## ⭐ Best projects / برترین پروژه ها
 ## 🛠 Skills / مهارت ها
-### Programming / برنامه نویسی
+### 💻 Programming / برنامه نویسی
 - HTML, CSS
 - Python (Django, Pygame)
 - Lua (Love2d)
+- DataBases (MySQL, SQL Server, SQLite)
 - PowerShell
-### Composition / آهنگسازی
+### 🎵 Composition / آهنگسازی
 - FL Studio (Chiptune, Video Game Music)
+### 🎨 Art / طراحی
+- Pixel Art (krita, Aseprite)
+- Photo Art (Photoshop)
+- illustrations (illustrator)
 ## 📫 Reach out / تماس با من
 
 <!--
