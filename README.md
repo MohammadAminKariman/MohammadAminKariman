@@ -7,6 +7,11 @@
 <h2 align="center"> :warning: I'm a newbie / من تازه کار هستم :warning: </h2>
 <h2> 🛠 Skills / مهارت ها </h2>
   <h3> 💻 Programming / برنامه نویسی </h3>
+    <ol>
+      <li>
+        HTML, CSS, JS, PHP
+      </li>
+    </ol>
   <h3> 🎵 Composition / آهنگسازی </h3>
   <h3> 🎨 Art / طراحی </h3>
 
@@ -14,7 +19,7 @@
 ## ⭐ Best projects / برترین پروژه ها
 -->
 ### 
-- HTML, CSS, JS, PHP
+- 
 - Python (Django, Pygame)
 - Lua (Love2d)
 - DataBases (MySQL, SQL Server, SQLite)
