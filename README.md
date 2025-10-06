@@ -7,7 +7,7 @@
 ## ⭐ Best projects / برترین پروژه ها
 ## 🛠 Skills / مهارت ها
 ### 💻 Programming / برنامه نویسی
-- HTML, CSS
+- HTML, CSS, JS, PHP
 - Python (Django, Pygame)
 - Lua (Love2d)
 - DataBases (MySQL, SQL Server, SQLite)
