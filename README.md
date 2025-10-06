@@ -6,12 +6,27 @@
 <br/><br/><br/>
 <h2 align="center"> :warning: I'm a newbie / من تازه کار هستم :warning: </h2>
 <h2> 🛠 Skills / مهارت ها </h2>
-  <h3> 💻 Programming / برنامه نویسی </h3>
-    <ol>
-      <li>
-        HTML, CSS, JS, PHP
-      </li>
-    </ol>
+    <h3> 💻 Programming / برنامه نویسی </h3>
+        <ol>
+            <li>
+            Web development (HTML, CSS, JS, PHP, Django, WordPress)
+            </li>
+            <li>
+            Game development (PYGame, Love2d, Godot)
+            </li>
+            <li>
+            Database development (SQLite, MySQL, SQLServer)
+            </li>
+            <li>
+            App development (Flutter)
+            </li>
+            <li>
+            Programmin languages (Python, JavaScript)
+            </li>
+            <li>
+            Scripting languages (Lua, PowerShell, GDScript)
+            </li>
+        </ol>
   <h3> 🎵 Composition / آهنگسازی </h3>
   <h3> 🎨 Art / طراحی </h3>
 
