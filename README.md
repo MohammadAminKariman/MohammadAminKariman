@@ -34,14 +34,24 @@
             </li>
         </ol>
     <h3> 🎨 Art / طراحی </h3>
-
+        <ol>
+            <li>
+                Pixel Art (krita, Aseprite)
+            </li>
+            <li>
+                Photo Art (Photoshop)
+            </li>
+            <li>
+                illustrations (illustrator)
+            </li>
+        </ol>
 
 ### 
 - 
 ### 
-- Pixel Art (krita, Aseprite)
-- Photo Art (Photoshop)
-- illustrations (illustrator)
+- 
+- 
+- 
 ## 📫 Reach out / تماس با من
 ### I'm seeking teaching opportunities / من به دنبال فرصت برای تدریس هستم
 - Email: mohamadaminkariman@gmail.com
