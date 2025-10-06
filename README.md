@@ -2,7 +2,6 @@
 <hr>
 <h2> English: </h2>
 <h3>18 years old, Mostly self-taught dev, with 2 year of experience in python, databases and game development, able to speak persian, english and a little bit of german </h3>
-<br/>
 <h2> فارسی: </h2> 
 <h3> یک فرد هجده ساله، توسعه دهنده تقریبا خودآموخته با دو سال تجربه در پایتون، بانک های اطلاعاتی و بازی سازی با توانایی حرف زدن به زبان های فارسی، انگلیسی و مقدار کمی آلمانی </h3>
 <br/><br/><br/>
