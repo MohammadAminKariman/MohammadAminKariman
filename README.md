@@ -30,7 +30,7 @@
     <h3> 🎵 Composition / آهنگسازی </h3>
         <ul>
             <li>
-                FL Studio (Chiptune, Video Game Music)
+                Music production (FL Studio)
             </li>
         </ul>
     <h3> 🎨 Art / طراحی </h3>
