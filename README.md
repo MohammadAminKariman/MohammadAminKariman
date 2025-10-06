@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammad amin / درود، من محمد امین هستم
 
-## English: ## 18 years old, Mostly self-taught dev, with 2 year of experience in python, databases and game development, able to speak persian, english and a little bit of german
+## English: ### 18 years old, Mostly self-taught dev, with 2 year of experience in python, databases and game development, able to speak persian, english and a little bit of german
 ## فارسی: یک فرد هجده ساله، توسعه دهنده تقریبا خودآموخته با دو سال تجربه در پایتون، بانک های اطلاعاتی و بازی سازی با توانایی حرف زدن به زبان های فارسی، انگلیسی و مقدار کمی آلمانی
 <!--
 **MohammadAminKariman/MohammadAminKariman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
