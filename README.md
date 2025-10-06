@@ -1,6 +1,6 @@
 <h1 
   align="center"
-  style="color: #000;"
+  style="border: 1px solid"
 > Hi, I'm Mohammad amin / درود، من محمد امین هستم </h1>
 
 ## English: 
